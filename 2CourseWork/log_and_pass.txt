@@ -1,0 +1,30 @@
+ADMIN:
+admin - log
+admin - pass
+
+MANAGER:
+manager - log
+parol - pass
+
+ivanova - log
+12345678 - pass
+
+COOK:
+shef - log
+1234 - pass
+
+yapovar - log
+1111 - pass
+
+desert - log
+france - pass
+
+CLIENT:
+ivanov - log
+2002 - pass
+
+platina - log
+3sotni - pass
+
+bigboy - log
+300 - pass

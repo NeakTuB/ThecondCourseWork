@@ -1,0 +1,24 @@
+﻿  main.cpp
+  manager.cpp
+D:\2CourseWork\2CourseWork\manager.cpp(26,10): warning C4018: '>=': signed/unsigned mismatch
+D:\2CourseWork\2CourseWork\manager.cpp(64,11): warning C4018: '>=': signed/unsigned mismatch
+D:\2CourseWork\2CourseWork\manager.cpp(168,6): warning C4101: 'num': unreferenced local variable
+  reg.cpp
+D:\2CourseWork\2CourseWork\reg.cpp(20,20): warning C4018: '<': signed/unsigned mismatch
+D:\2CourseWork\2CourseWork\reg.cpp(58,21): warning C4018: '<': signed/unsigned mismatch
+D:\2CourseWork\2CourseWork\reg.cpp(66,21): warning C4018: '<': signed/unsigned mismatch
+D:\2CourseWork\2CourseWork\reg.cpp(74,21): warning C4018: '<': signed/unsigned mismatch
+D:\2CourseWork\2CourseWork\reg.cpp(163,20): warning C4018: '<': signed/unsigned mismatch
+D:\2CourseWork\2CourseWork\reg.cpp(171,20): warning C4018: '<': signed/unsigned mismatch
+D:\2CourseWork\2CourseWork\reg.cpp(179,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+D:\2CourseWork\2CourseWork\List.h(30): warning C4715: 'List<Client>::operator[]': not all control paths return a value
+D:\2CourseWork\2CourseWork\List.h(30): warning C4715: 'List<Cook>::operator[]': not all control paths return a value
+D:\2CourseWork\2CourseWork\List.h(30): warning C4715: 'List<Manager>::operator[]': not all control paths return a value
+D:\2CourseWork\2CourseWork\List.h(30): warning C4715: 'List<Client>::operator[]': not all control paths return a value
+D:\2CourseWork\2CourseWork\List.h(30): warning C4715: 'List<Client>::operator[]': not all control paths return a value
+D:\2CourseWork\2CourseWork\List.h(30): warning C4715: 'List<Cook>::operator[]': not all control paths return a value
+D:\2CourseWork\2CourseWork\List.h(30): warning C4715: 'List<Manager>::operator[]': not all control paths return a value
+D:\2CourseWork\2CourseWork\List.h(30): warning C4715: 'List<Order>::operator[]': not all control paths return a value
+D:\2CourseWork\2CourseWork\List.h(30): warning C4715: 'List<Menu>::operator[]': not all control paths return a value
+  2CourseWork.vcxproj -> D:\2CourseWork\Debug\2CourseWork.exe
